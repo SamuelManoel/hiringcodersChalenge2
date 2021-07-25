@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume 1 Million Paco Rabanne",
+    "bestPrice": 11400,
+    "price": 23600,
+    "description": "",
+    "stock": 10,
+    "image": "https://cdn.shopify.com/s/files/1/0196/8744/0448/products/produto-foto-3_538f0fcf-3e9d-41d3-ab87-7a1de9f7c6cc_1000x.png"
+  },
+  {
+    "id": 2,
+    "name": "Bad Boy Le Parfum Carolina Herrera Eau de Parfum - Perfume Masculino 50ml",
+    "bestPrice": 49400,
+    "price": 61800,
+    "description": "",
+    "stock": 25,
+    "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/90554/53b724c7-e022-46ad-9cf8-483cbe73cf74-bad-boy-le-parfum-carolina-herrera-eau-de-parfum-perfume-masculino-50ml.png"
+  },
+  {
+    "id": 3,
+    "name": "Carolina Herrera 212 - Desodorante Feminino 150ml",
+    "bestPrice": 13890,
+    "price": 20890,
+    "description": "",
+    "stock": 5,
+    "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/5/carolina-herrera-212-refreshing-deodorant-feminino-desodorante-150ml-12913.jpg"
+  }
+]

@@ -1,0 +1,21 @@
+@media screen and (max-width: 900px) {
+  .shelf_product {
+    width: 48% !important;
+    margin: 10px 0;
+  }
+
+  .container_content {
+    padding: 10px !important;
+    justify-content: space-between;
+  }
+
+  .shelf_product--description,
+  .shelf_product--prices .price span,
+  .shelf_product--prices .price {
+    font-size: 10px;
+  }
+
+  .shelf_product--prices .best_price {
+    font-size: 20px;
+  }
+}

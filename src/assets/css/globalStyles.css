@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+img {
+  max-width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  line-height: 1;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.store_name {
+  font-size: 30px;
+  font-family: "Just Another Hand", cursive;
+  color: #00bccd;
+}
+
+.container_content {
+  max-width: 1366px;
+  padding: 20px;
+  margin: 0 auto;
+}
